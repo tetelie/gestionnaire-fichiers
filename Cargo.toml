@@ -11,3 +11,5 @@ tera = "1.18"
 futures-util = "0.3"
 sanitize-filename = "0.5" # Pour éviter les noms de fichiers dangereux
 tokio = { version = "1", features = ["full"] }
+chrono = "0.4.39"
+serde_json = "1.0.133"
